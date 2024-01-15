@@ -4,6 +4,9 @@ Jogo de jokenpo criado durante oi Bootcamp da Dio - <strong>Potência Tech Ifood
 
 conceitos abordados:
 
+- Aprofundamento em metodologias para construir jogos interativos
+- Aprofundamento em HTML, CSS, Javascript.
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
-- Organização de código
+- Refatoração de código
+
